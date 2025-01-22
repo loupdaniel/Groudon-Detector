@@ -1,4 +1,4 @@
-# 2024 NASA Space Apps Challenge
+# 2024 NASA Space Apps Challenge Cleveland - Groudon Detector
 
 ## About the Team
 Our team brings together a diverse set of backgrounds and skills, including two South Korean military veterans with leadership and problem-solving expertise and a hearing-impaired member providing valuable insights on accessibility and adaptability. United by our shared interest in projects that make a positive social impact, we approach challenges from multiple angles, leveraging our varied perspectives and experiences to achieve common goals. We offer a welcoming, communicative environment where new members can learn, grow, and collaborate with a motivated, adaptable, and mission-driven team.
