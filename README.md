@@ -9,4 +9,6 @@ Planetary seismology missions struggle with the power requirements necessary to 
 ## Project Demo Slide
 Detailed information about this project can be found in the link below.
 
-https://docs.google.com/presentation/d/1zeMZUj3kRO8ZTRmUEN0h5brWlc4z0md6/edit?usp=sharing&ouid=108486758539776523468&rtpof=true&sd=true
+- https://docs.google.com/presentation/d/1zeMZUj3kRO8ZTRmUEN0h5brWlc4z0md6/edit?usp=sharing&ouid=108486758539776523468&rtpof=true&sd=true
+
+- https://www.linkedin.com/feed/update/urn:li:activity:7257949946450980864/
